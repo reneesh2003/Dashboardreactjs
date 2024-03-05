@@ -7,9 +7,9 @@ import WeatherApp from './WeatherApp';
 function App() {
   return (
       <Routes>
-        <Route path='/' element={<Dashboard/>} />
-        <Route path='/stopwatch' element={<StopWatch/>} />
-        <Route path='/weatherapp' element={<WeatherApp/>} />
+        <Route path='/Dashbaordreactjs' element={<Dashboard/>} />
+        <Route path='/Dashbaordreactjs/stopwatch' element={<StopWatch/>} />
+        <Route path='/Dashbaordreactjs/weatherapp' element={<WeatherApp/>} />
       </Routes>
   );
 }

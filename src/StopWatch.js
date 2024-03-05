@@ -40,7 +40,7 @@ function StopWatch() {
   };
 
   const handleHome =()=>{
-    navigate('/')
+    navigate('/Dashbaordreactjs')
   }
   return (
     <div className="container">

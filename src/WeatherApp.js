@@ -71,7 +71,7 @@ const WeatherApp = () => {
     }, [query]);
 
     const handleHome =()=>{
-        navigate('/')
+        navigate('/Dashbaordreactjs')
       }
 
   return (
